@@ -132,6 +132,7 @@ Development:
 - [Arvind Goburdhun](https://github.com/arvgo)
 - [Elin Forsnor](https://github.com/elinforsnor)
 - [Felix Morau](https://github.com/femosc2)
+- [Pui-Yee Chung](https://github.com/chungpaella)
 
 ## License
 
